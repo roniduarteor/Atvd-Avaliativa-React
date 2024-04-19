@@ -1,0 +1,14 @@
+.title{
+    color: white;
+    font-family: 'Poppins';
+    font-weight: 700;
+
+    font-size: 50px;
+}
+
+.text{
+    color: white;
+    font-family: 'Poppins';
+    font-size: 16px;
+    margin-top: 25px;
+}
